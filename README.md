@@ -11,7 +11,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="Github" src="https://github.com/soneryilgor/soneryilgor/blob/main/img/dev.gif" />
 
 - 👨🏽‍💻 I’m currently working on Government;
 - 🌱 I’m currently learning React; 
@@ -20,16 +20,17 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: soneryilgor@mail.com;
 
-**Languages and Tools:** 
+ 
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
+  <a href="https://github.com/soneryilgor/handle-path-oz">
     <img width="55%" align="right" alt="Soner's github stats" src="https://github-readme-stats.vercel.app/api?username=soneryilgor&show_icons=true&hide_border=true" />
   </a>
-
+</br></br></br>
+<h3>**Languages and Tools:**</h3>
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
