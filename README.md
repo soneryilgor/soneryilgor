@@ -50,6 +50,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
  
 </p>
+  
+  ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
